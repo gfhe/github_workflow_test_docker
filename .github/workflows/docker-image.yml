@@ -30,4 +30,4 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: true
-          tags: hgfkeep/translation:$(date +%s)
+          tags: hgfkeep/translation:1124
